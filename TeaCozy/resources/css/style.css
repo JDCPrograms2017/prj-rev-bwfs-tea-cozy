@@ -135,6 +135,10 @@ a {
    flex-direction: column;
  }
 
+ .title-bottom {
+   margin-top: 10px;
+ }
+
  .copyright {
    text-align: left;
    margin-left: 20px;
